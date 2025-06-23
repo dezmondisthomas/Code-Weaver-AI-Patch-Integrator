@@ -69,4 +69,4 @@ Code Weaver provides a simple, visual interface to solve this problem permanentl
 The Code Weaver window will appear, ready to help you streamline your development workflow!
 
 ---
-*This tool was born from a real-world need to manage a complex Google Apps Script project. Special thanks to my co-developer, Thomas, for his brilliant ideas and rigorous testing.*
+*This tool was born from a real-world need to manage a complex Google Apps Script project. Special thanks to my co-developer, Google AI Studio, for its brilliant ideas and rigorous testing.*
