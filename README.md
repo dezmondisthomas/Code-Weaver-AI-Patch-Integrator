@@ -14,8 +14,8 @@ This is a huge pain. You're forced to manually copy and paste, risking errors an
 
 Code Weaver is a simple but powerful Python GUI application that acts as an intelligent "diff" tool. It takes your original master code file and a new "patch" file from an AI, and it intelligently weaves them together to produce a single, complete, and unabbreviated final script.
 
-![Screenshot of Code Weaver App](URL_TO_YOUR_SCREENSHOT.png) 
-*(You should take a screenshot of your app and upload it to the repo to replace this line)*
+![image](https://github.com/user-attachments/assets/bd6713ea-00f6-4449-a8ae-1ad2ad9be763)
+
 
 ## The Problem It Solves
 
